@@ -1,0 +1,2 @@
+# PROJECT_AI_FINAL
+ĐỀ TÀI: NHẬN DẠNG SÂU BỆNH TRÊN CÂY LÚA
